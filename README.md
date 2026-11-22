@@ -1,1 +1,1 @@
-
+Created an interactive music analytics dashboard exploring Spotify's 100 most-streamed songs. Analysed artist distribution, musical genres, streaming figures, explicit content, and average BPM to examine music popularity and artist performance.
